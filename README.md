@@ -1,1 +1,1 @@
-Here I build an Application which constantly changes background colour on click.
+Here I build an Application which constantly changes background colour on click.Using mainly javascript and a little bit of CSS and HTML.
